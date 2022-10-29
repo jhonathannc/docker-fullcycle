@@ -6,4 +6,4 @@ Each folder corresponds to a single project. You can find instructions on README
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This repositpry is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
