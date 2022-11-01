@@ -8,6 +8,6 @@ RUN go build -o hello
 
 FROM scratch
 
-COPY --from=builder /hellofc /hellofc
+COPY --from=builder /hellofc .
 
-CMD ["/hellofc"]
+CMD ["./hello"]
