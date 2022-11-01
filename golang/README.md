@@ -19,4 +19,4 @@ docker run YOUR_IMAGE_NAME
 
 This repositpry is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-[docker] :https://docs.docker.com/engine/install/
+[docker]: https://docs.docker.com/engine/install/
