@@ -4,7 +4,7 @@ The propose of this repository is to create a docker file contain a simple hello
 
 The challenge proposed was create a docker image below 2MB.
 
-## HOW TO RUN
+## How to run
 
 First you need to install the [docker][docker],
 than execute:
